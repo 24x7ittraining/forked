@@ -1,2 +1,2 @@
-# fork-me
-This is the source of some GREAT stuff
+# forked
+This is the fork of the GREAT stuff 
